@@ -1,0 +1,22 @@
+body {
+    background-color: rgb(148, 148, 9);
+}
+
+table {
+    width: 10%;
+}
+
+#end {
+    color: blue;
+    background-color: white;
+
+}
+
+#head1 {
+    background-color: black;
+    width: 10%;
+}
+
+h1 {
+    color: darkmagenta;
+}
